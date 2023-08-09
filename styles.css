@@ -1,0 +1,69 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    margin: 10px;
+    /* background-color: red; */
+    border:5px solid red;
+    width: 90%;
+    height:60vh;
+}
+.headbox{
+    margin: 10px;
+    margin-left: 29px;
+    border:5px solid red;
+    width: 90%;
+    height:10vh;
+}
+.container .headbox h1{
+    padding-left: 10px;
+}
+.container .headbox p{
+    padding-left: 10px;
+}
+.headbox_list{
+    margin:-38px;
+    margin-left: 29px;
+    border:5px solid red;
+    width: 88.25%;
+    height:auto;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.inside{
+    border: 5px solid red;
+    
+    margin: 10px;
+    width: 80%;
+    height:6vh;
+
+}
+.inside p{
+    padding-left: 10px;
+    /* list-style-position: outside; */
+}
+#p2nd{
+    position: relative;
+    bottom: 11px;
+}
+aside{
+    position: relative;
+    top: 35px;
+    padding-left: 10px;
+    
+}
+.list_2{
+    position: relative;
+    top: 35px;
+}
+.foot{
+    margin: 10px;
+    margin-left: 29px;
+    width: 90%;
+    height:10vh;
+}
+button,a{
+    border: 5px solid red;
+}
